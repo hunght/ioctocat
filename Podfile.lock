@@ -1,0 +1,52 @@
+PODS:
+  - AFNetworking (1.2.0)
+  - AFOAuth2Client (0.1.0):
+    - AFNetworking (~> 1.0)
+  - Base64 (1.0.1)
+  - ECSlidingViewController (0.9.3)
+  - Expecta (0.2.1)
+  - HockeySDK (3.5.5)
+  - NSStringEmojize (0.1.0)
+  - SVProgressHUD (0.9)
+  - SVPullToRefresh (0.4.1)
+  - TPKeyboardAvoiding (0.0.1)
+  - TTTAttributedLabel (1.6.3)
+  - YRDropdownView (0.2.1)
+
+DEPENDENCIES:
+  - AFNetworking (= 1.2)
+  - AFOAuth2Client (= 0.1)
+  - Base64
+  - ECSlidingViewController (from `https://github.com/iOctocat/ECSlidingViewController.git`)
+  - Expecta (~> 0.2.1)
+  - HockeySDK
+  - NSStringEmojize (from `https://github.com/iOctocat/NSStringEmojize.git`)
+  - SVProgressHUD (= 0.9.0)
+  - SVPullToRefresh (= 0.4.1)
+  - TPKeyboardAvoiding
+  - TTTAttributedLabel
+  - YRDropdownView (from `https://github.com/iOctocat/YRDropdownView.git`)
+
+EXTERNAL SOURCES:
+  ECSlidingViewController:
+    :git: https://github.com/iOctocat/ECSlidingViewController.git
+  NSStringEmojize:
+    :git: https://github.com/iOctocat/NSStringEmojize.git
+  YRDropdownView:
+    :git: https://github.com/iOctocat/YRDropdownView.git
+
+SPEC CHECKSUMS:
+  AFNetworking: 8dd00f053a0239189e72d2315c026ca9b57ac1c8
+  AFOAuth2Client: f51cd735b65b3fc582ead8396865156cce389ad5
+  Base64: c6d74f31f150543b246a07e180ba813c88e59311
+  ECSlidingViewController: fc6f2d9fa30bdc8dc2cc8a7c810e23cd2f3ad70b
+  Expecta: 0f0a97dfcbf5173a4c58cff75c51ca4c709c7fc1
+  HockeySDK: f9af97c2f5df4eb6ca6d2a9c408f2ff498edd608
+  NSStringEmojize: 9753414a9d39b1c7e60dc017b022520212b58bee
+  SVProgressHUD: adf9def97327df88dee15e9ad8033fde6961f7b4
+  SVPullToRefresh: d5161ebc833a38b465364412e5e307ca80bbb190
+  TPKeyboardAvoiding: 5b71fd97d082f4a67fd65d3fb7d14bfbee6682d1
+  TTTAttributedLabel: 99678b8df4f8941c5752d0e05e591029c6bfc5cf
+  YRDropdownView: 2a824eee75b10dd70fe21f9693c46a8309f9cc6e
+
+COCOAPODS: 0.33.1
